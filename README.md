@@ -10,7 +10,7 @@ This project includes several files, but all of my changes were made to the firs
     <b>scheme_reader.py</b>: the Scheme syntactic analyzer<br/>
     <b>questions.scm</b>: a collection of functions written in Scheme<br/>
     <b>tests.scm</b>: a collection of test cases written in Scheme<br/>
-    <b>scheme_tokens.py<b/>: a tokenizer for Scheme<br/>
+    <b>scheme_tokens.py</b>: a tokenizer for Scheme<br/>
     <b>scheme_primitives.py</b>: definitions for primitive Scheme procedures<br/>
     <b>buffer.py</b>: a Buffer implementation, used in scheme_reader.py<br/>
     <b>ucb.py</b>: utility functions for 61A<br/>
