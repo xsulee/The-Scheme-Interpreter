@@ -16,4 +16,4 @@ This project includes several files, but all of my changes were made to the firs
     <b>ucb.py</b>: utility functions for 61A<br/>
     <b>ok</b>: the autograder<br/>
     <b>tests</b>: a directory of tests used by ok<br/>
-    <b>mytests.rst</b>: A space for you to add your custom tests in Python; see section on adding your own tests<br/>
+    <b>mytests.rst</b>: A space for you to add your custom tests in Python; see section on adding your own tests
